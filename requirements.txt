@@ -1,0 +1,5 @@
+azure-functions==1.*
+msal==1.*
+requests==2.*
+pytz
+python-dateutil

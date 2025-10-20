@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "TENANT_ID": "YOUR_TENANT_ID",
+    "CLIENT_ID": "YOUR_CLIENT_ID",
+    "CLIENT_SECRET": "YOUR_CLIENT_SECRET",
+    "TARGET_USER": "user@yourtenant.onmicrosoft.com",
+    "TIMEZONE": "America/Chicago",
+    "MAX_ITEMS": "8"
+  }
+}
